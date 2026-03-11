@@ -25,3 +25,8 @@ if(sym1==sym2){
 else{
     console.log("False");
 }
+
+
+
+
+
